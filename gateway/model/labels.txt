@@ -1,0 +1,3 @@
+0 NoMask
+1 WeringMask
+2 NoPeople
